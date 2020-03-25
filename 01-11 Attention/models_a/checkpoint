@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data/ljy/1-Project-Go/01-11-upsampling+attention/models_a/densefuse_model_bs2_epoch4_all_weight_1e0.ckpt"
+all_model_checkpoint_paths: "/data/ljy/1-Project-Go/01-11-upsampling+attention/models_a/densefuse_model_bs2_epoch4_all_weight_1e0.ckpt"
